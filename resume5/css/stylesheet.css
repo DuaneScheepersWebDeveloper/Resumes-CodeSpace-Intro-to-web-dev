@@ -1,0 +1,62 @@
+body{
+padding:8px;
+font-family: sans-serif;
+  font-size: 110%;
+  background-color: #FCF7F8;
+  border: 1rem solid #d46a39;
+  margin: 0;
+  display:flex;
+  flex-direction: column;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+  color:white;
+}
+
+.main{
+  display: flex;
+   flex-direction: row;
+   overflow:unset;
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+  background-color: #343330;
+ 
+}
+  
+  #headshot{
+    margin:10px;
+    height: 250px;
+      width: auto;
+      border-radius: 50%;
+      border:3px solid orange;
+  }
+
+  #sidebar{
+    width: 20%;
+    background-color: #45462A;
+    padding:1rem;
+  }
+
+  #content{
+    width: 80%;
+      padding: 1rem;
+      margin: 1rem;
+  }
+  .icons{
+    width: 3rem;
+    height: auto;
+    margin:2rem;
+  }
+  .nav-menu{
+    list-style-type: none;
+    padding:0%;
+    
+  }
+  nav{
+    color: white;
+  }
