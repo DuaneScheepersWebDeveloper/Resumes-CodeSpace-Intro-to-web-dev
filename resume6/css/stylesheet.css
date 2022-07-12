@@ -38,7 +38,7 @@ header {
 	height: 250px;
 	width: auto;
 	border-radius: 50%;
-	border: 3px solid orange;
+	border: 3px solid #474a8a;
 }
 
 .headShot:hover {
@@ -128,4 +128,8 @@ footer {
 	text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
 		-1px -1px 0 #000;
 	border-radius: 0 0 10px 10px;
+}
+.menuHeading {
+	text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
+		-1px -1px 0 #000;
 }
